@@ -1,16 +1,4 @@
-Perfect.
 
-We’ll do the **README properly** — this is what reviewers open first.
-
-Copy this structure and customize with your actual URL + name.
-
----
-
-# 🔥 README Template (High-Scoring Version)
-
-Paste this into your `README.md` and adjust where needed.
-
----
 
 ## 🧠 Second Brain – AI-Powered Knowledge Infrastructure
 
