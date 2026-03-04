@@ -164,7 +164,6 @@ DATABASE_URL=
 GROQ_API_KEY=
 ```
 
-Never commit real credentials.
 
 ---
 
@@ -191,29 +190,3 @@ npm run dev
 
 ---
 
-# ✅ After Updating README
-
-Run:
-
-```bash
-git add .
-git commit -m "Improve README for submission"
-git push
-```
-
----
-
-# 🎯 Next Big Step
-
-Now we prepare your **Hedamo video script**.
-
-This is extremely important because:
-They evaluate product thinking and communication heavily.
-
-Do you want:
-
-A) Full structured script you can read
-B) Bullet-point speaking guide
-C) High-impact strategic positioning outline
-
-Tell me A, B, or C.
